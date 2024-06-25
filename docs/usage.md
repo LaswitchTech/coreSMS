@@ -19,7 +19,7 @@ $SMS = new SMS();
 `SMS` provides the following properties:
 
 - [Configurator](https://github.com/LaswitchTech/coreConfigurator)
-- [Logger](https://github.com/LaswitchTech/coreSMS)
+- [Logger](https://github.com/LaswitchTech/coreLogger)
 
 ### Methods
 `SMS` provides the following methods:
