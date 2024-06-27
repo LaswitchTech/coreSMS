@@ -21,7 +21,7 @@ Please disclose any vulnerabilities found responsibly – report security issues
 ## Installation
 Using Composer:
 ```sh
-composer require laswitchtech/core-SMS
+composer require laswitchtech/core-sms
 ```
 
 ## How do I use it?
